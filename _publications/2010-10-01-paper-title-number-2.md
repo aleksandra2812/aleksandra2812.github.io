@@ -6,8 +6,8 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: "The linguistic view of communism in Leopold Tyrmand's Dziennik 1954. Interpretation supported by the methods and tools of computational linguistics"
 date: 2023
 venue: 'Annales Universitatis Paedagogicae Cracoviensis. Studia de Cultura'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://studiadecultura.uken.krakow.pl/article/view/10871/9815'
 citation: 'Rykowska, A. (2023). &quot;Językowy obraz komunizmu w Dzienniku 1954Leopolda Tyrmanda. Interpretacja wspomagana metodami i narzędziami lingwistyki komputerowej&quot; <i>Annales Universitatis Paedagogicae Cracoviensis. Studia de Cultura</i>. 15(2).'
 ---
 
