@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Aleksandra Rykowska / Site Title"
+title                    : "Aleksandra Rykowska"
 title_separator          : "-"
 name                     : &name "Aleksandra Rykowska"
 description              : &description "I am a doctoral student at the Jagiellonian University in Kraków, Poland"   # Update this with a general description of your site, this is the default if not overridden by a page
