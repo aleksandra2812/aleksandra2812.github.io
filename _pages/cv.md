@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 
-* PhD in Linguistics, Jagiellonian University in Kraków, Poland, 2024-now
-* MA in General Linguistics, Jagiellonian University in Kraków, Poland, 2022-2024
-  * Master's thesis: _The use of computational linguistics methods in the study of sound symbolism and iconicity in poetry_ (in Polish)
-* BA in Polish Philolgy, Teacher's training, Jagiellonian University in Kraków, Poland, 2022-2023
-  * Bachelor's thesis: _Stanisław Wyspiański's stained glass imagination based on the case of Akropolis An attempt at an empirical analysis of the drama_ (in Polish)
-* BA in Polish Philolgy, Teacher's training & Speech Therapy, Adam Mickiewicz University in Poznań, Poland, 2020-2022
-* BA in Computational Linguistics, Adam Mickiewicz University in Poznań, Poland, 2019-2022
+* PhD in Linguistics, the Jagiellonian University in Kraków, Poland, 2024-now
+* MA in General Linguistics, the Jagiellonian University in Kraków, Poland, 2022-2024
+  * Master's thesis: _The use of computational linguistics' methods in the study of sound symbolism and iconicity in poetry_ (in Polish)
+* BA in Polish Philolgy, Teacher's training, the Jagiellonian University in Kraków, Poland, 2022-2023
+  * Bachelor's thesis: _Stanisław Wyspiański's stained glass imagination based on the case of Akropolis. An attempt at an empirical analysis of the drama_ (in Polish)
+* BA in Polish Philolgy, Teacher's training & Speech Therapy, the Adam Mickiewicz University in Poznań, Poland, 2020-2022
+* BA in Computational Linguistics, the Adam Mickiewicz University in Poznań, Poland, 2019-2022
   * Bachelor's thesis: _Computer stylometry in the analysis of Polish syllabic verse_ (in Polish)
 
 Work experience
@@ -27,14 +27,14 @@ Work experience
 * Oct 2024 - Current: Digital Editor
   * Jagiellonian University in Kraków, Poland
   * Duties included: TEI encoding of texts; annotation, xml editing.
-  * My first project included working on digital editions of Jan Kochanowski's Latin works alligned with their Polish translations. The edition is available on the [Jagiellonian University's Digital Platform](https://neolatina.dhlab.uj.edu.pl/home). My second projects includes publication of a digital edition of Szymon Laks' correspondence. The project is soon going to be available to a greater public.
+  * My first project included working on digital editions of Jan Kochanowski's Latin works aligned with their Polish translations. The edition is available on the [Jagiellonian University's Digital Platform](https://neolatina.dhlab.uj.edu.pl/home). My second project includes publication of a digital edition of Szymon Laks' correspondence. The project is soon going to be available to the general public.
 
 * Jun 2023 - Oct 2024: TTS Computational Linguist
   * [Techmo Voice Technologies](https://techmo.ai/)
   * Duties included: corpus creation for training, normalization (Polish, English, Spanish, Ukrainian), testing TTS systems, linguistic validation of TTS output, creation of phonetic tables for French, creation of multilingual TTS, Python code writing.
 
 * Jun 2023 - Oct 2024: Corpus annotator and corrector
-  * [Institie of Computer Science, Polish Academy of Sciences](https://ipipan.waw.pl/en/)
+  * [Institute of Computer Science, Polish Academy of Sciences](https://ipipan.waw.pl/en/)
   * Project: [Korpus Dekady](https://korpus-dekady.ipipan.waw.pl/); [SpoCO](https://korpusmowy.ijppan.pl/)
   * Duties included: Validation of ASR text, manual correction of text according to the recording (text and time stamps), working with ELAN.
 
@@ -42,7 +42,7 @@ Publications
 ======
 
 * [_Jak i po co automatyzować analizę wersologiczną w polskich badaniach literackich?_](https://studiapoetica.uken.krakow.pl/article/view/10428/10425)
-* [_Językowy obraz komunizmu w Dzienniku 1954Leopolda Tyrmanda. Interpretacja wspomagana metodami i narzędziami lingwistyki komputerowej_](https://studiadecultura.uken.krakow.pl/article/view/10871/9815)
+* [_Językowy obraz komunizmu w Dzienniku 1954 Leopolda Tyrmanda. Interpretacja wspomagana metodami i narzędziami lingwistyki komputerowej_](https://studiadecultura.uken.krakow.pl/article/view/10871/9815)
 
 Selected talks
 ======
@@ -76,7 +76,7 @@ Skills
   * Praat
   * AnnotationPro
 * Languages
-  * Polish (mother language)
+  * Polish (native)
   * English (fluent)
   * French (fluent)
   * Lithuanian (intermediate)
