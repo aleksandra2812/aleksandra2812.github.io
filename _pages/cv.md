@@ -40,9 +40,6 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 * [_Jak i po co automatyzować analizę wersologiczną w polskich badaniach literackich?_](https://studiapoetica.uken.krakow.pl/article/view/10428/10425)
 * [_Językowy obraz komunizmu w Dzienniku 1954Leopolda Tyrmanda. Interpretacja wspomagana metodami i narzędziami lingwistyki komputerowej_](https://studiadecultura.uken.krakow.pl/article/view/10871/9815)
