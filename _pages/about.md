@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Welcome to my website"
+title: "Hello, my name is Aleksandra!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Hello, my name is Aleksandra!
 
 I am a second year doctoral student at the Jagiellonian University in Kraków, Poland. I am currently working on my PhD thesis about the stylometry of machine translation, and in particular about finding new ways of distinguishing human and machine translation based on the linguistic features of the texts.
 
