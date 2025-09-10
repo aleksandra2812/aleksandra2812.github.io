@@ -1,5 +1,5 @@
 ---
-title: "Językowy obraz komunizmu w Dzienniku 1954Leopolda Tyrmanda. Interpretacja wspomagana metodami i narzędziami lingwistyki komputerowej"
+title: "Językowy obraz komunizmu w Dzienniku 1954 Leopolda Tyrmanda. Interpretacja wspomagana metodami i narzędziami lingwistyki komputerowej"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
