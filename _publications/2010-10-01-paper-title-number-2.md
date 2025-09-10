@@ -3,7 +3,7 @@ title: "Językowy obraz komunizmu w Dzienniku 1954Leopolda Tyrmanda. Interpretac
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: "The linguistic view of communism in Leopold Tyrmand's Dziennik 1954. Interpretation supported by the methods and tools of computational linguistics"
+excerpt: "Eng. title: The linguistic view of communism in Leopold Tyrmand's Dziennik 1954. Interpretation supported by the methods and tools of computational linguistics"
 date: 2023-10-01
 venue: 'Annales Universitatis Paedagogicae Cracoviensis. Studia de Cultura'
 paperurl: 'https://studiadecultura.uken.krakow.pl/article/view/10871/9815'

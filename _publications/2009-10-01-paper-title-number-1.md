@@ -3,7 +3,7 @@ title: "Jak i po co automatyzować analizę wersologiczną w polskich badaniach 
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'How and Why to Automate Versological Analysis in Polish Literary Studies?'
+excerpt: 'Eng. title: How and Why to Automate Versological Analysis in Polish Literary Studies?'
 date: 2024-10-01
 venue: 'Annales Universitatis Paedagogicae Cracoviensis. Studia Poetica 12'
 paperurl: 'https://studiapoetica.uken.krakow.pl/article/view/10428/10425'
