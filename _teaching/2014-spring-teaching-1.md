@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Cyfrowe narzędzia w przekładoznawstwie"
 collection: teaching
-type: "Undergraduate course"
+type: "Master's degree; 2nd year"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "ul. Grodzka 64, s. 202"
+date: 2025-10-06
+location: "Kraków, Poland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is an introductory course in stylometry. The students learn wbout the basics of stylometry with R, they get to know the basics of corpus building and finally they perform an analysis of their own collection of texts using stylo.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
+2025-10-06 Intruductory classes
 ======
