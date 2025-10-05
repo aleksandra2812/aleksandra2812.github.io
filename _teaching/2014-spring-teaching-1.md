@@ -10,9 +10,9 @@ location: "Kraków, Poland"
 
 This is an introductory course in stylometry. The students learn about the basics of stylometry with R, they get to know the basics of corpus building and finally they perform an analysis of their own collection of texts using stylo.
 
-2025-10-06 Zajęcia organizacyjne
+2025-10-06 Zajęcia organizacyjne, wprowadzenie do stylometrii
 ======
-<a href="/files/0610_CyfroweNarzedziaWPrzekladoznawstwie.pdf" target="_blank">Prezentacja z zajęć</a>
+<a href="/files/0610_CyfroweNarzedzias.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
 Warunki zaliczenia:
 - obecność na zajęciach (do 2 nieusprawiedliwionych nieobecności)
