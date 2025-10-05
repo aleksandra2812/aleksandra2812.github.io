@@ -12,4 +12,4 @@ This is an introductory course in stylometry. The students learn about the basic
 
 2025-10-06 Intruductory classes
 ======
-<a href="/files/0610_CyfroweNarzedziaWPrzekladoznawstwie.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="aleksandra2812.github.io/files/0610_CyfroweNarzedziaWPrzekladoznawstwie.pdf" target="_blank">PDF.</a>
