@@ -17,7 +17,7 @@ This is an introductory course in stylometry. The students learn about the basic
 Warunki zaliczenia:
 - obecność na zajęciach (do 2 nieusprawiedliwionych nieobecności)
 - aktywność na zajęciach
-- wykonanie projektu zaliczeniowego; [link do arkusza z zapisami na prezentacje](https://ujchmura-my.sharepoint.com/:x:/r/personal/aleksandra_rykowska_doctoral_uj_edu_pl/Documents/Cyfrowe%20narz%C4%99dzia%20w%20przek%C5%82adoznawstwie.xlsx?d=wddddd1bd7a394bc7a9c084e9d4c7ee54&csf=1&web=1&e=o7N5po)
+- wykonanie projektu zaliczeniowego; [link do arkusza z zapisami na prezentacje](https://ujchmura-my.sharepoint.com/:x:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/Eb3R3d05esdLqcCE6dTH7lQBGQkfvKdo6BzZ_mkZuEIVdQ?e=JSI3iy)
 
 2025-10-13 Czym jest stylometria i na czym polega ta metoda?
 ======
@@ -26,6 +26,7 @@ Warunki zaliczenia:
 2025-10-20 Przykładowe badania stylometryczne
 ======
 <a href="/files/2010_CyfroweNarzedzia_compressed.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
+
 <a href="/files/Rykowska_dramatfrancuski.pdf" target="_blank">Przykład prezentacji zaliczeniowej</a>
 
 💻 Na następne zajęcia (27/10/2024) **proszę pamiętać o przyniesieniu swoich laptopów**, jeżeli ktoś chce instalować stylo na swoim sprzęcie. Jeśli ktoś nie chce instalować na swoim laptopie, dostępne będą komputery w sali, ale nie można ich zabrać do domu, żeby wykonać na nich projekt zaliczeniowy ☺️
