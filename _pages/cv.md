@@ -15,7 +15,7 @@ Education
 * PhD in Linguistics, the Jagiellonian University in Kraków, Poland, 2024-now
 * MA in General Linguistics, the Jagiellonian University in Kraków, Poland, 2022-2024
   * Master's thesis: _The use of computational linguistics' methods in the study of sound symbolism and iconicity in poetry_ (in Polish)
-* BA in Polish Philolgy, Teacher's training, the Jagiellonian University in Kraków, Poland, 2022-2023
+* BA in Polish Philology, Teacher's training, the Jagiellonian University in Kraków, Poland, 2022-2023
   * Bachelor's thesis: _Stanisław Wyspiański's stained glass imagination based on the case of Akropolis. An attempt at an empirical analysis of the drama_ (in Polish)
 * BA in Polish Philolgy, Teacher's training & Speech Therapy, the Adam Mickiewicz University in Poznań, Poland, 2020-2022
 * BA in Computational Linguistics, the Adam Mickiewicz University in Poznań, Poland, 2019-2022

@@ -30,3 +30,12 @@ Warunki zaliczenia:
 <a href="/files/Rykowska_dramatfrancuski.pdf" target="_blank">Przykład prezentacji zaliczeniowej</a>
 
 💻 Na następne zajęcia (27/10/2024) **proszę pamiętać o przyniesieniu swoich laptopów**, jeżeli ktoś chce instalować stylo na swoim sprzęcie. Jeśli ktoś nie chce instalować na swoim laptopie, dostępne będą komputery w sali, ale nie można ich zabrać do domu, żeby wykonać na nich projekt zaliczeniowy ☺️
+
+2025-10-27 Instalowanie stylo i pierwsze własne analizy
+======
+<a href="/files/2710_CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
+
+Linki do pobrania:
+- [R dla Windowsa](https://cran.r-project.org/bin/windows/base/)
+- [R dla macOs](https://cran.r-project.org/bin/macosx/)
+- [XQuartz tylko jeśli jest błąd na Macu](http://www.xquartz.org)
