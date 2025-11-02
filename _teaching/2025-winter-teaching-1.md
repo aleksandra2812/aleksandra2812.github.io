@@ -39,3 +39,12 @@ Linki do pobrania:
 - [R dla Windowsa](https://cran.r-project.org/bin/windows/base/)
 - [R dla macOs](https://cran.r-project.org/bin/macosx/)
 - [XQuartz tylko jeśli jest błąd na Macu](http://www.xquartz.org)
+
+2025-11-03 Bootstrap consensus i funkcja oppose()
+======
+Przypominam o deklaracji terminu prezentacji projektu zaliczeniowego. Lista znajduje się [tutaj](https://ujchmura-my.sharepoint.com/:x:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/Eb3R3d05esdLqcCE6dTH7lQBGQkfvKdo6BzZ_mkZuEIVdQ?e=JSI3iy).
+
+<a href="/files/0311_CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
+
+Link do [dokumentu z ćwiczeniami](https://ujchmura-my.sharepoint.com/:w:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/EaVqCc5gBkNMtSWc_6UHMxABSrkFFlV4eQmzNM9gHREvqg?e=cGN2q4). 
+
