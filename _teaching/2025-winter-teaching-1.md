@@ -53,6 +53,8 @@ Link do [dokumentu z ćwiczeniami](https://ujchmura-my.sharepoint.com/:w:/g/pers
 <a href="/files/2411CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
 Link do [burzy mózgów](https://www.menti.com/alu8dhwzasg8).
+
 Link do strony [Gephi](https://gephi.org/desktop/).
+
 Link do ankiety dot. terminu odrabiania zajęć (jak sobie zawężymy możliwe dni i godziny).
 
