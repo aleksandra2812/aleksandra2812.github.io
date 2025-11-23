@@ -44,13 +44,13 @@ Linki do pobrania:
 ======
 Przypominam o deklaracji terminu prezentacji projektu zaliczeniowego. Lista znajduje się [tutaj](https://ujchmura-my.sharepoint.com/:x:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/Eb3R3d05esdLqcCE6dTH7lQBGQkfvKdo6BzZ_mkZuEIVdQ?e=JSI3iy).
 
-<a href="/files/0311_CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
+<a href="/files/0311CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
 Link do [dokumentu z ćwiczeniami](https://ujchmura-my.sharepoint.com/:w:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/EaVqCc5gBkNMtSWc_6UHMxABSrkFFlV4eQmzNM9gHREvqg?e=cGN2q4). 
 
 2025-11-24 Funkcja oppose(), wyrażenia regularne, instalowanie Gephi
 =====
-<a href="/files/2411_CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
+<a href="/files/2411CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
 Link do [burzy mózgów](https://www.menti.com/alu8dhwzasg8).
 Link do strony [Gephi](https://gephi.org/desktop/).
