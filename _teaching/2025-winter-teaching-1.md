@@ -58,3 +58,19 @@ Link do strony [Gephi](https://gephi.org/desktop/).
 
 Link do ankiety dot. terminu odrabiania zajęć (jak sobie zawężymy możliwe dni i godziny).
 
+**Zadanie dla osób, które mają więcej niż 2 nieobecności:**
+
+- Za pomocą funkcji `oppose()` wykonać ćwiczenie dot. różnic leksykalnych między powieściami napisanymi przez kobiety i powieściami napisanymi przez mężczyzn w korpusie `Klasyka polska`. (Dokładna instrukcja w prezentacji)
+- Wykonać ćwiczenia dot. wyrażeń regularnych:
+```
+1. Jakim wyrażeniem regularnym wyszukamy wyrazy, które zaczynają się od prefiksów do-, po-, pod-?
+2. Jakim wyrażeniem regularnym wyszukamy wyrazy, które kończą się na -ący, -ąca, -ące?
+3. Jakim wyrażeniem regularnym wyszukamy wyrazy, które mają geminatę -tt-?
+4. Jakim wyrażeniem regularnym wyszukamy pierwszy wyraz w nazwach plików, które zostały utworzone według wzoru: Autor_TytułPowieści_RokWydania?
+5. Jakim wyrażeniem regularnym wyszukamy w nazwach plików utworzonych według schematu powyżej same lata wydania książek?
+6. Jakim wyrażeniem regularnym wyszukamy w nazwach plików utworzonych według schematu powyżej tytuły książek?
+```
+- Wykonać [Regexle](https://regexle.com/) dla danego dnia i przesłać zrzut ekranu.
+
+Odpowiedzi przesłać mailem :)
+
