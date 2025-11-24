@@ -56,8 +56,6 @@ Link do [burzy mózgów](https://www.menti.com/alu8dhwzasg8).
 
 Link do strony [Gephi](https://gephi.org/desktop/).
 
-Link do ankiety dot. terminu odrabiania zajęć (jak sobie zawężymy możliwe dni i godziny).
-
 **Zadanie dla osób, które mają więcej niż 2 nieobecności:**
 
 - Za pomocą funkcji `oppose()` wykonać ćwiczenie dot. różnic leksykalnych między powieściami napisanymi przez kobiety i powieściami napisanymi przez mężczyzn w korpusie `Klasyka polska`. (Dokładna instrukcja w prezentacji)
@@ -73,4 +71,8 @@ Link do ankiety dot. terminu odrabiania zajęć (jak sobie zawężymy możliwe d
 - Wykonać [Regexle](https://regexle.com/) dla danego dnia i przesłać zrzut ekranu.
 
 Odpowiedzi przesłać mailem :)
+
+## Odrabianie zajęć z 17.11 i z 15.12
+
+Umówiliśmy się na `czwartek 04.12` oraz `czwartek 11.12` na godz. 15:00. Na następnych zajęciach podam salę i budynek, gdzie się na to odrabianie spotkamy :)
 
