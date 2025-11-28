@@ -74,5 +74,6 @@ Odpowiedzi przesłać mailem :)
 
 ## Odrabianie zajęć z 17.11 i z 15.12
 
-Umówiliśmy się na `czwartek 04.12` oraz `czwartek 11.12` na godz. 15:00. Na następnych zajęciach podam salę i budynek, gdzie się na to odrabianie spotkamy :)
+Umówiliśmy się na `czwartek 04.12` oraz `czwartek 11.12` na godz. 15:00. 
+W `czwartek 04.12` o godz. `15:00` widzimy się na `Gołębiej 16, w sali 52`.
 
