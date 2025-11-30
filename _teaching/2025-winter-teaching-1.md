@@ -72,6 +72,14 @@ Link do strony [Gephi](https://gephi.org/desktop/).
 
 Odpowiedzi przesłać mailem :)
 
+2025-12-01 Gephi
+=====
+
+<a href="/files/0112_CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
+
+Link do [dokumentu z zadaniem](https://ujchmura-my.sharepoint.com/:w:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/IQBS7BxiWabGSYq461CQ6Cy5AcZWuN-EZWeOOJenQ3QMhEw?e=KkiLqa)
+
+
 ## Odrabianie zajęć z 17.11 i z 15.12
 
 Umówiliśmy się na `czwartek 04.12` oraz `czwartek 11.12` na godz. 15:00. 
