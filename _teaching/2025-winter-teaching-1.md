@@ -94,7 +94,7 @@ Wykresy proszę przesłać mailem :)
 2025-12-04 Rolling stylometry
 =====
 
-<a href="/files/0412_CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
+<a href="/files/0412CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
 
 ## Odrabianie zajęć z 17.11 i z 15.12
