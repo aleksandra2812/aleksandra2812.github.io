@@ -81,6 +81,16 @@ Link do strony [Gephi](https://gephi.org/desktop/).
 
 Link do [dokumentu z zadaniem](https://ujchmura-my.sharepoint.com/:w:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/IQBS7BxiWabGSYq461CQ6Cy5AcZWuN-EZWeOOJenQ3QMhEw?e=KkiLqa)
 
+**Zadanie dla osób, które mają więcej niż 2 nieobecności:**
+
+```
+Proszę zainstalować Gephi i wykonać wykresy dla korpusów:
+- Klasyka polska
+- Francuzi po polsku
+- Dramaty polskie (tutaj według dodatkowego polecenia z [pliku](https://ujchmura-my.sharepoint.com/:w:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/IQBS7BxiWabGSYq461CQ6Cy5AcZWuN-EZWeOOJenQ3QMhEw?e=KkiLqa))
+Wykresy proszę przesłać mailem :)
+```
+
 2025-12-04 Rolling stylometry
 =====
 
