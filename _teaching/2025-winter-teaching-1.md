@@ -87,7 +87,7 @@ Link do [dokumentu z zadaniem](https://ujchmura-my.sharepoint.com/:w:/g/personal
 Proszę zainstalować Gephi i wykonać wykresy dla korpusów:
 - Klasyka polska
 - Francuzi po polsku
-- Dramaty polskie (tutaj według dodatkowego polecenia z [pliku](https://ujchmura-my.sharepoint.com/:w:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/IQBS7BxiWabGSYq461CQ6Cy5AcZWuN-EZWeOOJenQ3QMhEw?e=KkiLqa))
+- Dramaty polskie (tutaj według dodatkowego polecenia z dokumentu podlinkowanego wyżej)
 Wykresy proszę przesłać mailem :)
 ```
 
