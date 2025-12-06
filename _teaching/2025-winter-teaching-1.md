@@ -96,10 +96,24 @@ Wykresy proszę przesłać mailem :)
 
 <a href="/files/0412CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
+**Zadanie dla osób, które mają więcej niż 2 nieobecności:**
+
+```
+Proszę wykonać analizy za pomocą funkcji `rolling.classify()` z użyciem `trzech różnych metod`. 
+- Proszę mailowo przesłać trzy wykresy a analizy korpusu `Dickens and Collins`
+- Proszę zaproponować inny tekst, który Państwo znają, który można zanalizować za pomocą wskazanej metody.
+```
+
+2025-12-08 Budowanie własnego korpusu
+=====
+
+<a href="/files/0812CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
 ## Odrabianie zajęć z 17.11 i z 15.12
 
-Umówiliśmy się na `czwartek 04.12` oraz `czwartek 11.12` na godz. 15:00. 
+Umówiliśmy się na `czwartek 04.12` na godz. 15:00. 
 
 W `czwartek 04.12` o godz. `15:00` widzimy się na `Gołębiej 16, w sali 52`.
+
+Zajęcia z `15.12` odrobimy jednak po świętach - chciałabym, żeby mieli Państwo czas na zebranie korpusu. Na ostatnich zajęciach przed prezentowaniem projektów zrobimy **hands-on session** i każdy będzie miał całe zajęcia, żeby pracować nad projektem. Ja będę wtedy do Państwa dyspozycji i będę pomagać w razie wystąpienia jakichkolwiek problemów z analizami.
 
