@@ -111,9 +111,22 @@ Proszę wykonać analizy za pomocą funkcji `rolling.classify()` z użyciem `trz
 
 ## Odrabianie zajęć z 17.11 i z 15.12
 
+2026-01-08 Porady dot. prezentacji i hands-on session
+=====
+
+<a href="/files/0801Cyfrowe.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
+
+**Zadanie dla osób, które mają więcej niż 2 nieobecności:**
+
+`Proszę poprawić 2 wykresy z Gephi, które robiliśmy w czasie zajęć tak, aby były w całości pokolorowane, bez szarych połączeń`
+
 Umówiliśmy się na `czwartek 04.12` na godz. 15:00. 
 
 W `czwartek 04.12` o godz. `15:00` widzimy się na `Gołębiej 16, w sali 52`.
 
 Zajęcia z `15.12` odrobimy jednak po świętach - chciałabym, żeby mieli Państwo czas na zebranie korpusu. Na ostatnich zajęciach przed prezentowaniem projektów zrobimy **hands-on session** i każdy będzie miał całe zajęcia, żeby pracować nad projektem. Ja będę wtedy do Państwa dyspozycji i będę pomagać w razie wystąpienia jakichkolwiek problemów z analizami.
+
+Odrabiane zajęćia z `15.12` odbędą się w `czwartek 08.01.2026` o godz. 15:00 na platformie MsTeams.
+
+
 
