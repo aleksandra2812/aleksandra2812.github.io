@@ -109,8 +109,6 @@ Proszę wykonać analizy za pomocą funkcji `rolling.classify()` z użyciem `trz
 
 <a href="/files/0812CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
-## Odrabianie zajęć z 17.11 i z 15.12
-
 2026-01-08 Porady dot. prezentacji i hands-on session
 =====
 
@@ -118,7 +116,11 @@ Proszę wykonać analizy za pomocą funkcji `rolling.classify()` z użyciem `trz
 
 **Zadanie dla osób, które mają więcej niż 2 nieobecności:**
 
-`Proszę poprawić 2 wykresy z Gephi, które robiliśmy w czasie zajęć tak, aby były w całości pokolorowane, bez szarych połączeń`
+```
+Proszę poprawić 2 wykresy z Gephi, które robiliśmy w czasie zajęć tak, aby były w całości pokolorowane, bez szarych połączeń
+```
+
+## Odrabianie zajęć z 17.11 i z 15.12
 
 Umówiliśmy się na `czwartek 04.12` na godz. 15:00. 
 
