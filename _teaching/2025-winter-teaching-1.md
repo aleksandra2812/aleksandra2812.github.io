@@ -120,6 +120,25 @@ Proszę wykonać analizy za pomocą funkcji `rolling.classify()` z użyciem `trz
 Proszę poprawić 2 wykresy z Gephi, które robiliśmy w czasie zajęć tak, aby były w całości pokolorowane, bez szarych połączeń
 ```
 
+2026-01-12 Prezentacje studenckie, inne narzędzia cyfrowe
+=====
+<a href="/files/1201Cyfrowe.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
+
+**Zadanie dla osób, które mają więcej niż 2 nieobecności:**
+
+```
+Proszę mailowo przesłać:
+- link do strony korpusu diachronicznego języka polskiego
+- link do strony słownika, w którym znajdziemy zarejestrowane i omówione wyrazy staropolskie
+- nazwy 5 różnych narzędzi udostępnianych przez konsorcjum CLARIN-PL, które mogą być potrzebne w pracy przekładoznawcy i/lub tłumacza i podać wyjaśnienie
+- wyjaśnienie, czym różnią się Korpusomat, Ant-conc oraz Sketch Enginec
+```
+
+**Przypominam też, że aby zaliczyć przedmiot należy:**
+- nadrobić wszystkie ponadprogramowe nieobecności
+- mieć >50% obecności na zajęciach
+- proszę też sprawdzić, czy wrzucili Państwo wyniki swojej pracy w dokumentach, nad którymi pracowali Państwo w czasie zajęć
+
 ## Odrabianie zajęć z 17.11 i z 15.12
 
 Umówiliśmy się na `czwartek 04.12` na godz. 15:00. 
