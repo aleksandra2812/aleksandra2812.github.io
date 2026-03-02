@@ -47,6 +47,7 @@ Publications
 Selected talks
 ======
 
+* Presentation: _Are we in need of finding new ways of distinguishing human and machine translation? A stylometric study of literary texts translated into English,French, Polish and Lithuanian_, Digital Humanities and Translation Studies: On Method II, December 2025, Hong Kong
 * Short presentation: _Is stylometry still able to distinguish between literary human and machine translation?_, Digital Humanities 2025, July 2025, Lisbon, Portugal
 * Poster: _Which chatbot generated the most racial and ethnic stereotypes?_, Digital Humanities 2025, July 2025, Lisbon, Portugal
 * Poster: _Has machine translation become so good that it is able to fool stylometry?_, 4th Annual Conference of Computational Literary Studies, July 2025, Kraków, Poland
@@ -56,6 +57,23 @@ Selected talks
 * Presentation: _SylLab: program for automatic sentiment analysis of poetry based on frequencies of phonetic units_, 10th Language and Technology Conference, April 2023, Poznań, Poland
 * Presentation: _How and why to automate versological analysis in Polish Literary Studies_, Around the theory of verse, April 2023, Kraków, Poland
 * Presentation: _Stylometry of Lithuanian literature and Polish dramas_, Baltistika pasaulyje (Baltic Studies around the world), March 2023, Kaunas, Lithuania
+
+Awards
+======
+* 2026: Josef Dobrovsky Fellowship (Czech Academy of Sciences)
+* 2026: EADH Small Grants (European Association for Digital Humanities) 
+
+Organized conferences:
+=====
+* July 2025: JCLS Conference, Kraków, Poland
+* September 2025: TEI Congress, Kraków, Poland
+* September 2026: EADH 2026, Kraków, Poland
+
+Membership
+======
+I am a member of:
+* EADH (European Association for Digital Humanities)
+* ADHO (Association of Digital Humanities Organizations)
 
 Teaching
 ======
