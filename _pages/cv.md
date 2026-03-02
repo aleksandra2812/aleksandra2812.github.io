@@ -47,6 +47,7 @@ Publications
 Selected talks
 ======
 
+* (Accepted) Short presentation: _Can LLMs imitate an author's style? Comparative stylometric study of ChatGPT, Gemini, and Claude._, Digital Humanities 2026, July 2025, Daejeon, South Korea
 * Presentation: _Are we in need of finding new ways of distinguishing human and machine translation? A stylometric study of literary texts translated into English,French, Polish and Lithuanian_, Digital Humanities and Translation Studies: On Method II, December 2025, Hong Kong
 * Short presentation: _Is stylometry still able to distinguish between literary human and machine translation?_, Digital Humanities 2025, July 2025, Lisbon, Portugal
 * Poster: _Which chatbot generated the most racial and ethnic stereotypes?_, Digital Humanities 2025, July 2025, Lisbon, Portugal
