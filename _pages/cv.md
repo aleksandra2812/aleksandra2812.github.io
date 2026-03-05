@@ -62,13 +62,16 @@ Selected talks
 Awards
 ======
 * 2026: Josef Dobrovsky Fellowship (Czech Academy of Sciences)
+[Article about the study visit in Czech Academy of Sciences](https://ucl.cas.cz/aktuality/predstavujeme-nase-stipendistky-aleksandra-rykowska/)
 * 2026: EADH Small Grants (European Association for Digital Humanities) 
+[Article about my grant admission](https://eadh.org/news/2026/02/10/eadh-small-grants-meet-2025-awardees)
 
 Organized conferences:
 =====
-* July 2025: JCLS Conference, Kraków, Poland
-* September 2025: TEI Congress, Kraków, Poland
-* September 2026: EADH 2026, Kraków, Poland
+* 2027: [Kongres Historyków Języka](https://kongreshistorykowjezyka27.confer.uj.edu.pl/iii-kongres-historykow-jezyka), Kraków, Poland
+* September 2026: [EADH 2026](https://eadh2026.confer.uj.edu.pl/start), Kraków, Poland
+* September 2025: [TEI Congress](https://tei2025.confer.uj.edu.pl/), Kraków, Poland
+* July 2025: [JCLS Conference](https://jcls.io/site/ccls2025/), Kraków, Poland
 
 Membership
 ======
@@ -78,7 +81,6 @@ I am a member of:
 
 Teaching
 ======
-
 * October 2025 - February 2026: 30h course in digital tools for translation studies; Polish Philolgy Faculty, Jagiellonian University in Kraków
 
 Skills
