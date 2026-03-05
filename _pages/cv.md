@@ -62,8 +62,10 @@ Selected talks
 Awards
 ======
 * 2026: Josef Dobrovsky Fellowship (Czech Academy of Sciences)
+
 [Article about the study visit in Czech Academy of Sciences](https://ucl.cas.cz/aktuality/predstavujeme-nase-stipendistky-aleksandra-rykowska/)
 * 2026: EADH Small Grants (European Association for Digital Humanities) 
+
 [Article about my grant admission](https://eadh.org/news/2026/02/10/eadh-small-grants-meet-2025-awardees)
 
 Organized conferences:
