@@ -47,17 +47,17 @@ Publications
 Selected talks
 ======
 
-* (Accepted) Short presentation: _Can LLMs imitate an author's style? Comparative stylometric study of ChatGPT, Gemini, and Claude._, Digital Humanities 2026, July 2025, Daejeon, South Korea
-* Presentation: _Are we in need of finding new ways of distinguishing human and machine translation? A stylometric study of literary texts translated into English,French, Polish and Lithuanian_, Digital Humanities and Translation Studies: On Method II, December 2025, Hong Kong
-* Short presentation: _Is stylometry still able to distinguish between literary human and machine translation?_, Digital Humanities 2025, July 2025, Lisbon, Portugal
-* Poster: _Which chatbot generated the most racial and ethnic stereotypes?_, Digital Humanities 2025, July 2025, Lisbon, Portugal
-* Poster: _Has machine translation become so good that it is able to fool stylometry?_, 4th Annual Conference of Computational Literary Studies, July 2025, Kraków, Poland
-* Presentation: _Racial and ethnic bias in AI generated texts_, Digital Humanities 2024, August 2024, Washington D.C., USA
-* Presentation: _OBSTFELDERIS ŽINGSNIS PO ŽINGSNIO KONSTRUOJA KONTRMOTYVĄ - sonority scale in Lithuanian_ (co-author: Adrian Kędzior), International Congress of Lithuanists, May 2024, Wrocław, Poland
-* Poster: _SylLab - software for semi-automatic stylometric analysis for poetry_, Digital Humanities 2023, July 2023, Graz, Austria
-* Presentation: _SylLab: program for automatic sentiment analysis of poetry based on frequencies of phonetic units_, 10th Language and Technology Conference, April 2023, Poznań, Poland
-* Presentation: _How and why to automate versological analysis in Polish Literary Studies_, Around the theory of verse, April 2023, Kraków, Poland
-* Presentation: _Stylometry of Lithuanian literature and Polish dramas_, Baltistika pasaulyje (Baltic Studies around the world), March 2023, Kaunas, Lithuania
+* (Accepted) **Short presentation**: _Can LLMs imitate an author's style? Comparative stylometric study of ChatGPT, Gemini, and Claude._, Digital Humanities 2026, July 2025, Daejeon, South Korea
+* **Presentation**: _Are we in need of finding new ways of distinguishing human and machine translation? A stylometric study of literary texts translated into English,French, Polish and Lithuanian_, Digital Humanities and Translation Studies: On Method II, December 2025, Hong Kong
+* **Short presentation**: _Is stylometry still able to distinguish between literary human and machine translation?_, Digital Humanities 2025, July 2025, Lisbon, Portugal
+* **Poster**: _Which chatbot generated the most racial and ethnic stereotypes?_, Digital Humanities 2025, July 2025, Lisbon, Portugal
+* **Poster**: _Has machine translation become so good that it is able to fool stylometry?_, 4th Annual Conference of Computational Literary Studies, July 2025, Kraków, Poland
+* **Presentation**: _Racial and ethnic bias in AI generated texts_, Digital Humanities 2024, August 2024, Washington D.C., USA
+* **Presentation**: _OBSTFELDERIS ŽINGSNIS PO ŽINGSNIO KONSTRUOJA KONTRMOTYVĄ - sonority scale in Lithuanian_ (co-author: Adrian Kędzior), International Congress of Lithuanists, May 2024, Wrocław, Poland
+* **Poster**: _SylLab - software for semi-automatic stylometric analysis for poetry_, Digital Humanities 2023, July 2023, Graz, Austria
+* **Presentation**: _SylLab: program for automatic sentiment analysis of poetry based on frequencies of phonetic units_, 10th Language and Technology Conference, April 2023, Poznań, Poland
+* **Presentation**: _How and why to automate versological analysis in Polish Literary Studies_, Around the theory of verse, April 2023, Kraków, Poland
+* **Presentation**: _Stylometry of Lithuanian literature and Polish dramas_, Baltistika pasaulyje (Baltic Studies around the world), March 2023, Kaunas, Lithuania
 
 Awards
 ======
