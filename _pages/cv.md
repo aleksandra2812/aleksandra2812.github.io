@@ -80,6 +80,7 @@ Membership
 ======
 I am a member of:
 * EADH (European Association for Digital Humanities)
+* EAMT (European Association for Machine Translation)
 * TEI Consortium (Text Encoding Initiative)
 * ADHO (Association of Digital Humanities Organizations)
 
