@@ -24,6 +24,10 @@ Education
 Work experience
 ======
 
+* May 2026 - Current: Scholarship in a National Centre Grant project
+  * Jagiellonian University in Kraków, Poland
+  * I work in the project _Izomorfizm w elipsie: wyzwania opuszczania przyimków_ (2022/47/B/HS2/00867) where I transcribe the conversations recorded with the Polish diaspora in the Brazilian state Parana. I also help with the organization of linguistic experiments.
+
 * Oct 2024 - Current: Digital Editor
   * Jagiellonian University in Kraków, Poland
   * Duties included: TEI encoding of texts; annotation, xml editing.
@@ -48,7 +52,8 @@ Selected talks
 ======
 
 * (Accepted) **Short presentation**: _Can LLMs imitate an author's style? Comparative stylometric study of ChatGPT, Gemini, and Claude._, Digital Humanities 2026, July 2025, Daejeon, South Korea
-* (Accepted) **Presentation**: _Zróżnicowanie leksykalne ludzkich i maszynowych przekładów literackich_, Słowo z perspektywy językoznawcy i tłumacza VII, May 2026, Gdańsk, Poland
+* **Presentation**: _Polish Poetry Corpus_, Plotting Poetry 9, June 2026, Caen, France (co-authored with Anna Mędrzecka-Stefańska, Petr Plecháč, Artjoms Šeļa)
+* **Presentation**: _Zróżnicowanie leksykalne ludzkich i maszynowych przekładów literackich_, Słowo z perspektywy językoznawcy i tłumacza VII, May 2026, Gdańsk, Poland
 * **Presentation**: _Are we in need of finding new ways of distinguishing human and machine translation? A stylometric study of literary texts translated into English,French, Polish and Lithuanian_, Digital Humanities and Translation Studies: On Method II, December 2025, Hong Kong
 * **Short presentation**: _Is stylometry still able to distinguish between literary human and machine translation?_, Digital Humanities 2025, July 2025, Lisbon, Portugal
 * **Poster**: _Which chatbot generated the most racial and ethnic stereotypes?_, Digital Humanities 2025, July 2025, Lisbon, Portugal
