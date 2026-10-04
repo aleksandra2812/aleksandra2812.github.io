@@ -51,7 +51,8 @@ Publications
 Selected talks
 ======
 
-* (Accepted) **Short presentation**: _Can LLMs imitate an author's style? Comparative stylometric study of ChatGPT, Gemini, and Claude._, Digital Humanities 2026, July 2025, Daejeon, South Korea
+* **Short presentation**: _Basic linguistic measures help distinguish human and machine translation_, European Association for Digital Humanities 2026, September 2026, Kraków, Poland
+* **Short presentation**: _Can LLMs imitate an author's style? Comparative stylometric study of ChatGPT, Gemini, and Claude._, Digital Humanities 2026, July 2026, Daejeon, South Korea
 * **Presentation**: _Polish Poetry Corpus_, Plotting Poetry 9, June 2026, Caen, France (co-authored with Anna Mędrzecka-Stefańska, Petr Plecháč, Artjoms Šeļa)
 * **Presentation**: _Zróżnicowanie leksykalne ludzkich i maszynowych przekładów literackich_, Słowo z perspektywy językoznawcy i tłumacza VII, May 2026, Gdańsk, Poland
 * **Presentation**: _Are we in need of finding new ways of distinguishing human and machine translation? A stylometric study of literary texts translated into English,French, Polish and Lithuanian_, Digital Humanities and Translation Studies: On Method II, December 2025, Hong Kong
@@ -91,6 +92,7 @@ I am a member of:
 
 Teaching
 ======
+* October 2026 - February 2026: 30h course in digital tools for translation studies; Polish Philolgy Faculty, Jagiellonian University in Kraków
 * October 2025 - February 2026: 30h course in digital tools for translation studies; Polish Philolgy Faculty, Jagiellonian University in Kraków
 
 Skills
