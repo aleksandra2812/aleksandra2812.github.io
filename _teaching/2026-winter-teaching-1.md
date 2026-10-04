@@ -1,5 +1,5 @@
 ---
-title: "Cyfrowe narzędzia w przekładoznawstwie"
+title: "2026/2027 Cyfrowe narzędzia w przekładoznawstwie"
 collection: teaching
 type: "Master's degree; 2nd year"
 permalink: /teaching/2026-winter-teaching-1
@@ -12,13 +12,14 @@ This is an introductory course in stylometry. The students learn about the basic
 
 2025-10-05 Zajęcia organizacyjne, wprowadzenie do stylometrii
 ======
-<a href="/files/0610_CyfroweNarzedzias.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
+<a href="/files/051026_CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
 Warunki zaliczenia:
 - obecność na zajęciach (do 2 nieusprawiedliwionych nieobecności)
-- aktywność na zajęciach
+- aktywność na zajęciach (uczestnictwo w zajęciach, wykonywanie analiz i ćwiczeń, samodzielne wykonanie dwóch zestawów ćwiczeniowych)
 - wykonanie projektu zaliczeniowego; [link do arkusza z zapisami na prezentacje](https://ujchmura-my.sharepoint.com/:x:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/Eb3R3d05esdLqcCE6dTH7lQBGQkfvKdo6BzZ_mkZuEIVdQ?e=JSI3iy)
 
+<!---
 2025-10-13 Czym jest stylometria i na czym polega ta metoda?
 ======
 <a href="/files/1310_CyfroweNarzedzia_compressed.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
@@ -139,15 +140,7 @@ Proszę mailowo przesłać:
 - mieć >50% obecności na zajęciach
 - proszę też sprawdzić, czy wrzucili Państwo wyniki swojej pracy w dokumentach, nad którymi pracowali Państwo w czasie zajęć
 
-## Odrabianie zajęć z 17.11 i z 15.12
-
-Umówiliśmy się na `czwartek 04.12` na godz. 15:00. 
-
-W `czwartek 04.12` o godz. `15:00` widzimy się na `Gołębiej 16, w sali 52`.
-
-Zajęcia z `15.12` odrobimy jednak po świętach - chciałabym, żeby mieli Państwo czas na zebranie korpusu. Na ostatnich zajęciach przed prezentowaniem projektów zrobimy **hands-on session** i każdy będzie miał całe zajęcia, żeby pracować nad projektem. Ja będę wtedy do Państwa dyspozycji i będę pomagać w razie wystąpienia jakichkolwiek problemów z analizami.
-
-Odrabiane zajęcia z `15.12` odbędą się w `czwartek 08.01.2026` o godz. 15:00 na platformie MsTeams.
+-->
 
 
 
