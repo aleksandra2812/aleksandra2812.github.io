@@ -12,6 +12,34 @@ This is an introductory course in stylometry. The students learn about the basic
 
 2025-10-06 Zajęcia organizacyjne, wprowadzenie do stylometrii
 ======
+
+2025-10-13 Czym jest stylometria i na czym polega ta metoda?
+======
+
+2025-10-20 Przykładowe badania stylometryczne
+======
+
+2025-10-27 Instalowanie stylo i pierwsze własne analizy
+======
+
+2025-11-03 Bootstrap consensus - ćwiczenia
+======
+
+2025-11-24 Funkcja oppose(), wyrażenia regularne, instalowanie Gephi
+=====
+
+2025-12-01 Gephi
+=====
+
+2025-12-04 Rolling stylometry
+=====
+
+2025-12-08 Budowanie własnego korpusu
+=====
+
+2026-01-12 Prezentacje studenckie, inne narzędzia cyfrowe
+=====
+
 <!---
 <a href="/files/0610_CyfroweNarzedzias.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
@@ -21,13 +49,11 @@ Warunki zaliczenia:
 - wykonanie projektu zaliczeniowego; [link do arkusza z zapisami na prezentacje](https://ujchmura-my.sharepoint.com/:x:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/Eb3R3d05esdLqcCE6dTH7lQBGQkfvKdo6BzZ_mkZuEIVdQ?e=JSI3iy)
 -->
 
-2025-10-13 Czym jest stylometria i na czym polega ta metoda?
-======
+
 <!---
 <a href="/files/1310_CyfroweNarzedzia_compressed.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 -->
-2025-10-20 Przykładowe badania stylometryczne
-======
+
 <!---
 <a href="/files/2010_CyfroweNarzedzia_compressed.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
@@ -36,8 +62,7 @@ Warunki zaliczenia:
 💻 Na następne zajęcia (27/10/2024) **proszę pamiętać o przyniesieniu swoich laptopów**, jeżeli ktoś chce instalować stylo na swoim sprzęcie. Jeśli ktoś nie chce instalować na swoim laptopie, dostępne będą komputery w sali, ale nie można ich zabrać do domu, żeby wykonać na nich projekt zaliczeniowy ☺️
 -->
 
-2025-10-27 Instalowanie stylo i pierwsze własne analizy
-======
+
 <!---
 <a href="/files/2710_CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
@@ -46,8 +71,7 @@ Linki do pobrania:
 - [R dla macOs](https://cran.r-project.org/bin/macosx/)
 - [XQuartz tylko jeśli jest błąd na Macu](http://www.xquartz.org)
 -->
-2025-11-03 Bootstrap consensus - ćwiczenia
-======
+
 <!---
 Przypominam o deklaracji terminu prezentacji projektu zaliczeniowego. Lista znajduje się [tutaj](https://ujchmura-my.sharepoint.com/:x:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/Eb3R3d05esdLqcCE6dTH7lQBGQkfvKdo6BzZ_mkZuEIVdQ?e=JSI3iy).
 
@@ -55,8 +79,7 @@ Przypominam o deklaracji terminu prezentacji projektu zaliczeniowego. Lista znaj
 
 Link do [dokumentu z ćwiczeniami](https://ujchmura-my.sharepoint.com/:w:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/EaVqCc5gBkNMtSWc_6UHMxABSrkFFlV4eQmzNM9gHREvqg?e=cGN2q4). 
 -->
-2025-11-24 Funkcja oppose(), wyrażenia regularne, instalowanie Gephi
-=====
+
 <!---
 <a href="/files/2411CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
@@ -80,8 +103,7 @@ Link do strony [Gephi](https://gephi.org/desktop/).
 
 Odpowiedzi przesłać mailem :)
 -->
-2025-12-01 Gephi
-=====
+
 <!---
 <a href="/files/0112_CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
@@ -99,8 +121,7 @@ Proszę zainstalować Gephi i wykonać wykresy dla korpusów:
 Wykresy proszę przesłać mailem :)
 ```
 -->
-2025-12-04 Rolling stylometry
-=====
+
 <!---
 <a href="/files/0412CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
@@ -112,8 +133,7 @@ Proszę wykonać analizy za pomocą funkcji `rolling.classify()` z użyciem `trz
 - Proszę zaproponować inny tekst, który Państwo znają, który można zanalizować za pomocą wskazanej metody.
 ```
 -->
-2025-12-08 Budowanie własnego korpusu
-=====
+
 <!---
 <a href="/files/0812CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 -->
@@ -128,8 +148,7 @@ Proszę wykonać analizy za pomocą funkcji `rolling.classify()` z użyciem `trz
 Proszę poprawić 2 wykresy z Gephi, które robiliśmy w czasie zajęć tak, aby były w całości pokolorowane, bez szarych połączeń
 ```
 -->
-2026-01-12 Prezentacje studenckie, inne narzędzia cyfrowe
-=====
+
 <!---
 <a href="/files/1201Cyfrowe.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
