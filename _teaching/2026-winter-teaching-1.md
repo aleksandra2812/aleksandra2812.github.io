@@ -3,7 +3,7 @@ title: "2026/2027 Cyfrowe narzędzia w przekładoznawstwie"
 collection: teaching
 type: "Master's degree; 2nd year"
 permalink: /teaching/2026-winter-teaching-1
-venue: "ul. Grodzka 64, s. 202"
+venue: "ul. Grodzka 64, s. 202, Monday 9:45-11:15"
 date: 2026-10-05
 location: "Kraków, Poland"
 ---
