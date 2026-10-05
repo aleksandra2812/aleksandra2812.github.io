@@ -40,6 +40,9 @@ This is an introductory course in stylometry. The students learn about the basic
 2026-01-12 Prezentacje studenckie, inne narzędzia cyfrowe
 =====
 
+2026-01-08 Porady dot. prezentacji i hands-on session
+=====
+
 <!---
 <a href="/files/0610_CyfroweNarzedzias.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
@@ -137,8 +140,7 @@ Proszę wykonać analizy za pomocą funkcji `rolling.classify()` z użyciem `trz
 <!---
 <a href="/files/0812CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 -->
-2026-01-08 Porady dot. prezentacji i hands-on session
-=====
+
 <!---
 <a href="/files/0801Cyfrowe.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
