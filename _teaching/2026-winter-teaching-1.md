@@ -22,7 +22,7 @@ Warunki zaliczenia:
 
 2025-10-13 Czym jest stylometria i na czym polega ta metoda?
 ======
-<a href="/files/121026_CyfroweNarzedzia_compressed.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
+<a href="/files/121026CyfroweNarzedzia_compressed.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
 <!---
 2025-10-20 Przykładowe badania stylometryczne
