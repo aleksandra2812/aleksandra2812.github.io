@@ -20,7 +20,7 @@ Warunki zaliczenia:
 - wykonanie projektu zaliczeniowego; [link do arkusza z zapisami na prezentacje](https://ujchmura-my.sharepoint.com/:x:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/Eb3R3d05esdLqcCE6dTH7lQBGQkfvKdo6BzZ_mkZuEIVdQ?e=JSI3iy)
 
 
-2025-10-13 Czym jest stylometria i na czym polega ta metoda?
+2025-10-12 Czym jest stylometria i na czym polega ta metoda?
 ======
 <a href="/files/121026CyfroweNarzedzia_compressed.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
