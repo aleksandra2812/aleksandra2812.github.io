@@ -12,7 +12,7 @@ This is an introductory course in stylometry. The students learn about the basic
 
 2025-10-05 Zajęcia organizacyjne, wprowadzenie do stylometrii
 ======
-<a href="/files/051026_CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
+<a href="/files/051026_CyfroweNarzedziav2.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
 Warunki zaliczenia:
 - obecność na zajęciach (do 2 nieusprawiedliwionych nieobecności)
