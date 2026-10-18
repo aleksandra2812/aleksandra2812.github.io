@@ -24,15 +24,16 @@ Warunki zaliczenia:
 ======
 <a href="/files/121026CyfroweNarzedzia_compressed.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
-<!---
+
 2025-10-20 Przykładowe badania stylometryczne
 ======
-<a href="/files/2010_CyfroweNarzedzia_compressed.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
+<a href="/files/191026_CyfroweNarzedzia_compressed.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
 <a href="/files/Rykowska_dramatfrancuski.pdf" target="_blank">Przykład prezentacji zaliczeniowej</a>
 
-💻 Na następne zajęcia (27/10/2024) **proszę pamiętać o przyniesieniu swoich laptopów**, jeżeli ktoś chce instalować stylo na swoim sprzęcie. Jeśli ktoś nie chce instalować na swoim laptopie, dostępne będą komputery w sali, ale nie można ich zabrać do domu, żeby wykonać na nich projekt zaliczeniowy ☺️
+💻 Na następne zajęcia (27/10/2024) **proszę pamiętać o przyniesieniu swoich laptopów**, jeżeli ktoś chce instalować stylo na swoim sprzęcie. Jeśli ktoś nie chce instalować na swoim laptopie, dostępne będą komputery w sali, ale nie można ich zabrać do domu, żeby wykonać na nich projekt zaliczeniowy, więc wszystko trzeba będzie zainstalować później w domu u siebie ☺️
 
+<!---
 2025-10-27 Instalowanie stylo i pierwsze własne analizy
 ======
 <a href="/files/2710_CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
