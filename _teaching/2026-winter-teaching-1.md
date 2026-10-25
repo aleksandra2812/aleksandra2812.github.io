@@ -34,9 +34,9 @@ Warunki zaliczenia:
 💻 Na następne zajęcia (26/10/2024) **proszę pamiętać o przyniesieniu swoich laptopów**, jeżeli ktoś chce instalować stylo na swoim sprzęcie. Jeśli ktoś nie chce instalować na swoim laptopie, dostępne będą komputery w sali, ale nie można ich zabrać do domu, żeby wykonać na nich projekt zaliczeniowy, więc wszystko trzeba będzie zainstalować później w domu u siebie ☺️
 
 
-2025-10-27 Instalowanie stylo i pierwsze własne analizy
+2025-10-26 Instalowanie stylo i pierwsze własne analizy
 ======
-<a href="/files/261026_CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
+<a href="/files/261026_CyfroweNarzedziav2.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
 Linki do pobrania:
 - [R dla Windowsa](https://cran.r-project.org/bin/windows/base/)
