@@ -44,7 +44,7 @@ Linki do pobrania:
 - [XQuartz tylko jeśli jest błąd na Macu](http://www.xquartz.org)
 
 
-2025-11-03 Cluster analysis & Bootstrap consensus - ćwiczenia
+2025-11-09 Cluster analysis & Bootstrap consensus - ćwiczenia
 ======
 Przypominam o deklaracji terminu prezentacji projektu zaliczeniowego. Lista znajduje się [tutaj](https://ujchmura-my.sharepoint.com/:x:/g/personal/aleksandra_rykowska_doctoral_uj_edu_pl/Eb3R3d05esdLqcCE6dTH7lQBGQkfvKdo6BzZ_mkZuEIVdQ?e=JSI3iy).
 
@@ -52,7 +52,7 @@ Zadanie do wykonania podczas zajęć:
 - Proszę w wybranym miejscu na swoim komputerze utworzyć folder "Zadanie_1"
 - Z MsTeams proszę pobrać folder z korpusem polskich tłumaczeń powieści francuskich, rozpakować go i przenieść do folderu "Zadanie_1"
 - Proszę wczytać bibliotekę stylo oraz ustawić w R lokalizację folderu tak, by móc wykonać analizy na pobranych tekstach
-- Proszę sprawdzić, czy została ustawiona dobra lokalizacja folderu (wydrukować w konsoli ścieżkę do bieżącego folderu)
+- Proszę sprawdzić, czy została ustawiona dobra lokalizacja folderu (wydrukować w konsoli ścieżkę do bieżącego folderu) oraz wkleić zrzut ekranu konsoli do dokumentu z zadaniem
 - Proszę wejść w folder "Zadanie 1" a następnie podfolder z Państwa nazwiskiem oraz wykonać znajdujące się w dokumencie zadania
 - **Proszę wszystkie wygenerowane odpowiedzi i wykresu dodać do dokumentu** 
 
