@@ -54,7 +54,7 @@ Zadanie do wykonania podczas zajęć:
 - Proszę wczytać bibliotekę stylo oraz ustawić w R lokalizację folderu tak, by móc wykonać analizy na pobranych tekstach
 - Proszę sprawdzić, czy została ustawiona dobra lokalizacja folderu (wydrukować w konsoli ścieżkę do bieżącego folderu) oraz wkleić zrzut ekranu konsoli do dokumentu z zadaniem
 - Proszę wejść w folder "Zadanie 1" a następnie podfolder z Państwa nazwiskiem oraz wykonać znajdujące się w dokumencie zadania
-- **Proszę wszystkie wygenerowane odpowiedzi i wykresu dodać do dokumentu** 
+- **Proszę wszystkie wygenerowane odpowiedzi i wykresy dodać do dokumentu** 
 
 <!---
 2025-11-24 Funkcja oppose(), wyrażenia regularne, instalowanie Gephi
