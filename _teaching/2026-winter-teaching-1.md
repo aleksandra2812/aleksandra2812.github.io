@@ -56,15 +56,14 @@ Zadanie do wykonania podczas zajęć:
 - Proszę wejść w folder "Zadanie 1" a następnie podfolder z Państwa nazwiskiem oraz wykonać znajdujące się w dokumencie zadania
 - **Proszę wszystkie wygenerowane odpowiedzi i wykresy dodać do dokumentu** 
 
-<!---
-2025-11-24 Funkcja oppose(), wyrażenia regularne, instalowanie Gephi
-=====
-<a href="/files/2411CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
-Link do [burzy mózgów](https://www.menti.com/alu8dhwzasg8).
+2025-11-16 Funkcja oppose(), wyrażenia regularne, instalowanie Gephi
+=====
+<a href="/files/161126_CyfroweNarzedzia.pdf" target="_blank">Prezentacja z zajęć do przejrzenia/pobrania</a>
 
 Link do strony [Gephi](https://gephi.org/desktop/).
 
+<!---
 **Zadanie dla osób, które mają więcej niż 2 nieobecności:**
 
 - Za pomocą funkcji `oppose()` wykonać ćwiczenie dot. różnic leksykalnych między powieściami napisanymi przez kobiety i powieściami napisanymi przez mężczyzn w korpusie `Klasyka polska`. (Dokładna instrukcja w prezentacji)
