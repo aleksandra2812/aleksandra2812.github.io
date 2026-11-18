@@ -63,10 +63,10 @@ Zadanie do wykonania podczas zajęć:
 
 Link do strony [Gephi](https://gephi.org/desktop/).
 
-<!---
 **Zadanie dla osób, które mają więcej niż 2 nieobecności:**
 
 - Za pomocą funkcji `oppose()` wykonać ćwiczenie dot. różnic leksykalnych między powieściami napisanymi przez kobiety i powieściami napisanymi przez mężczyzn w korpusie `Klasyka polska`. (Dokładna instrukcja w prezentacji)
+- Proszę przesłać wygenerowany wykres i jego krótką interpretację.
 - Wykonać ćwiczenia dot. wyrażeń regularnych:
 ```
 1. Jakim wyrażeniem regularnym wyszukamy wyrazy, które zaczynają się od prefiksów do-, po-, pod-?
@@ -78,8 +78,9 @@ Link do strony [Gephi](https://gephi.org/desktop/).
 ```
 - Wykonać [Regexle](https://regexle.com/) dla danego dnia i przesłać zrzut ekranu.
 
-Odpowiedzi przesłać mailem :)
+Odpowiedzi proszę przesłać mailem :)
 
+<!---
 2025-12-01 Gephi
 =====
 
